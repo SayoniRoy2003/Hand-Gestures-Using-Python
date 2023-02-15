@@ -1,1 +1,3 @@
-# Hand-Gestures-Using-Python
+Hand Gestures detection using python libraries
+OpenCV,numpy,tensorflow,mediapipe.
+It was a group project on AI/ML consisting of 6 members.
